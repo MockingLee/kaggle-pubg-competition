@@ -1,2 +1,3 @@
 # kaggle pubg competition
 : )
+cut
